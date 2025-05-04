@@ -1,0 +1,62 @@
+[
+    {
+        "job_name": "Financial Analyst",
+        "category": "Finance",
+        "job_description": "Analyzes financial data, prepares reports, and provides insights to help businesses and individuals make investment decisions.",
+        "eligibility": "Bachelor's degree in Finance, Economics, or related field; certifications such as CFA are advantageous.",
+        "skills_required": ["Analytical Thinking", "Financial Modeling", "Excel", "Communication", "Problem Solving"],
+        "education_path": ["Bachelor's in Finance/Economics/Commerce", "CFA (optional)", "MBA Finance (optional)"],
+        "related_exams": ["CFA (Chartered Financial Analyst)", "NISM Certifications", "CAIA"],
+        "career_growth": ["Junior Analyst", "Financial Analyst", "Senior Analyst", "Finance Manager", "Chief Financial Officer"],
+        "companies_hiring": ["Banks", "Investment Firms", "Consulting Firms", "Corporates", "Insurance Companies"],
+        "salary_range": "INR 4 to 20 Lakhs per annum depending on experience and company"
+    },
+    {
+        "job_name": "Investment Banker",
+        "category": "Finance",
+        "job_description": "Assists companies in raising capital, mergers and acquisitions, and financial restructuring.",
+        "eligibility": "Bachelor's degree in Finance, Business, or Economics; MBA or CFA preferred.",
+        "skills_required": ["Analytical Skills", "Financial Modeling", "Negotiation", "Communication", "Stress Management"],
+        "education_path": ["Bachelor's in Finance/Economics", "MBA Finance", "CFA"],
+        "related_exams": ["CFA", "MBA Entrance Exams"],
+        "career_growth": ["Analyst", "Associate", "Vice President", "Director", "Managing Director"],
+        "companies_hiring": ["Investment Banks", "Financial Advisory Firms", "Consulting Firms"],
+        "salary_range": "INR 8 to 50 Lakhs+ per annum depending on experience and firm"
+    },
+    {
+        "job_name": "Chartered Accountant (CA)",
+        "category": "Finance",
+        "job_description": "Prepares financial statements, conducts audits, advises on tax planning and compliance, and offers financial consultancy.",
+        "eligibility": "Pass CA Foundation, Intermediate, and Final exams; complete required articleship training.",
+        "skills_required": ["Accounting", "Taxation", "Auditing", "Financial Reporting", "Analytical Skills"],
+        "education_path": ["CA Foundation", "CA Intermediate", "CA Final"],
+        "related_exams": ["CA CPT/Foundation", "CA Intermediate", "CA Final"],
+        "career_growth": ["Junior Accountant", "Chartered Accountant", "Senior CA", "Finance Manager", " CFO"],
+        "companies_hiring": ["Accounting Firms", "Corporates", "Banks", "Government Organizations", "Consulting Firms"],
+        "salary_range": "INR 5 to 30 Lakhs per annum depending on experience and organization"
+    },
+    {
+        "job_name": "Credit Analyst",
+        "category": "Finance",
+        "job_description": "Assesses creditworthiness of individuals or companies, analyzing financial data to evaluate risk in lending.",
+        "eligibility": "Bachelor's degree in Finance, Economics, or related field.",
+        "skills_required": ["Analytical Skills", "Financial Analysis", "Communication", "Attention to Detail"],
+        "education_path": ["Bachelor's in Finance/Economics"],
+        "related_exams": ["CFA (optional)", "NISM Certifications"],
+        "career_growth": ["Junior Credit Analyst", "Credit Analyst", "Senior Analyst", "Credit Manager"],
+        "companies_hiring": ["Banks", "Credit Rating Agencies", "Financial Institutions"],
+        "salary_range": "INR 4 to 15 Lakhs per annum depending on experience"
+    },
+    {
+        "job_name": "Risk Manager",
+        "category": "Finance",
+        "job_description": "Identifies and analyzes financial risks for an organization and develops strategies to mitigate them.",
+        "eligibility": "Bachelor's degree in Finance, Economics, or Risk Management; relevant certifications such as FRM or PRM are advantageous.",
+        "skills_required": ["Risk Assessment", "Analytical Thinking", "Problem Solving", "Communication", "Decision-Making"],
+        "education_path": ["Bachelor's in Finance/Economics", "FRM (Financial Risk Manager)", "MBA in Risk Management (optional)"],
+        "related_exams": ["FRM (Financial Risk Manager)", "PRM (Professional Risk Manager)", "CFA (optional)"],
+        "career_growth": ["Risk Analyst", "Risk Manager", "Senior Risk Manager", "Head of Risk", "Chief Risk Officer (CRO)"],
+        "companies_hiring": ["Banks", "Insurance Companies", "Investment Firms", "Consulting Firms", "Large Corporates"],
+        "salary_range": "INR 6 to 35 Lakhs per annum depending on experience and industry"
+    }
+]        

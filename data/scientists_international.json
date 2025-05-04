@@ -1,0 +1,79 @@
+[
+   {
+     "job_name": "NASA – National Aeronautics and Space Administration",
+     "field": "Aerospace and Space Research",
+     "research_fields": ["Astronomy", "Aerospace Engineering", "Robotics", "Planetary Science", "Climate Studies"],
+     "eligibility": "Bachelor's, Master's, or PhD in STEM fields; US citizenship often required for core positions",
+     "skills_required": ["Aerodynamics", "Systems Engineering", "Astrophysics", "Simulation Tools", "Data Analysis"],
+     "recruitment_process": "Internships, direct applications through USAJobs, research fellowships, collaborations",
+     "career_growth": ["Intern", "Research Fellow", "Scientist", "Project Manager", "Program Director"],
+     "salary_range": "₹4,920,000 – ₹13,120,000+ per year",
+     "category": "Scientists"
+   },
+   {
+     "job_name": "CERN – European Organization for Nuclear Research",
+     "field": "Fundamental Physics Research",
+     "research_fields": ["Particle Physics", "Accelerator Technology", "Quantum Mechanics", "Data Science"],
+     "eligibility": "Master's or PhD in Physics, Engineering, or Computer Science; international applications accepted",
+     "skills_required": ["Experimental Physics", "Cryogenics", "Detector Systems", "Big Data", "Mathematical Modeling"],
+     "recruitment_process": "CERN fellowships, graduate programs, technical studentships, direct applications",
+     "career_growth": ["Student Intern", "Fellow", "Research Scientist", "Senior Scientist", "Group Leader"],
+     "salary_range": "₹4,500,000 – ₹11,700,000+ per year",
+     "category": "Scientists"
+   },
+   {
+     "job_name": "WHO – World Health Organization",
+     "field": "Global Health and Policy Research",
+     "research_fields": ["Public Health", "Epidemiology", "Disease Prevention", "Health Systems", "Nutrition"],
+     "eligibility": "Master’s or PhD in Public Health, Medicine, or related disciplines",
+     "skills_required": ["Policy Analysis", "Health Data", "Disease Modeling", "Project Coordination", "Report Writing"],
+     "recruitment_process": "Global recruitment via WHO careers portal, internship and fellowship programs",
+     "career_growth": ["Public Health Officer", "Technical Officer", "Scientist", "Health Policy Advisor"],
+     "salary_range": "₹4,100,000 – ₹9,840,000+ per year (depending on post and location)",
+     "category": "Scientists"
+   },
+   {
+     "job_name": "UNESCO – United Nations Educational, Scientific and Cultural Organization",
+     "field": "Education, Science, and Culture",
+     "research_fields": ["Sustainable Development", "Education Policy", "Cultural Heritage", "STEM Education"],
+     "eligibility": "Master’s or PhD in relevant disciplines; strong international policy or academic background",
+     "skills_required": ["Policy Research", "Education Systems", "Cross-cultural Communication", "Data Evaluation"],
+     "recruitment_process": "UNESCO careers and internships, associate expert programs",
+     "career_growth": ["Associate Expert", "Program Officer", "Senior Researcher", "Chief of Section"],
+     "salary_range": "₹4,100,000 – ₹12,780,000+ per year (UN salary scales)",
+     "category": "Scientists"
+   },
+   {
+     "job_name": "MIT/Harvard Research Labs",
+     "field": "Advanced Science and Technology Research",
+     "research_fields": ["Artificial Intelligence", "Biotech", "Quantum Computing", "Robotics", "Neuroscience"],
+     "eligibility": "PhD or Postdoc in relevant field; exceptional academic or research background",
+     "skills_required": ["Innovative Thinking", "Lab Research", "Machine Learning", "Scientific Writing", "Coding"],
+     "recruitment_process": "Apply via lab websites, postdoctoral positions, faculty collaborations",
+     "career_growth": ["Research Assistant", "Postdoctoral Fellow", "Research Scientist", "Principal Investigator"],
+     "salary_range": "₹4,920,000 – ₹16,400,000+ per year",
+     "category": "Scientists"
+   },
+   {
+     "job_name": "Max Planck Institutes",
+     "field": "Multidisciplinary Fundamental Research",
+     "research_fields": ["Physics", "Cognitive Science", "Molecular Biology", "Astronomy", "Law and Society"],
+     "eligibility": "Master’s or PhD; many institutes accept international candidates",
+     "skills_required": ["Academic Research", "Experimental Techniques", "Data Interpretation", "Teamwork"],
+     "recruitment_process": "IMPRS doctoral schools, fellowships, job portals for postdocs and scientists",
+     "career_growth": ["PhD Scholar", "Postdoc", "Group Leader", "Institute Director"],
+     "salary_range": "₹4,050,000 – ₹10,800,000+ per year",
+     "category": "Scientists"
+   },
+   {
+     "job_name": "Oxford and Cambridge Research Centres",
+     "field": "Academic and Applied Research",
+     "research_fields": ["Biochemistry", "Engineering", "Philosophy of Science", "Genomics", "Artificial Intelligence"],
+     "eligibility": "PhD or Postdoc in a related field; strong academic track record",
+     "skills_required": ["Critical Thinking", "Research Design", "Grant Writing", "Collaboration", "Academic Publishing"],
+     "recruitment_process": "Postdoc and research roles advertised on university sites or academic job boards",
+     "career_growth": ["Postdoctoral Researcher", "Lecturer", "Senior Researcher", "Professor"],
+     "salary_range": "₹3,570,000 – ₹10,200,000+ per year",
+     "category": "Scientists"
+   }
+]

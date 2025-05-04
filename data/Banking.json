@@ -1,0 +1,74 @@
+[
+    {
+        "job_name": "Bank Probationary Officer (PO)",
+        "category": "Banking",
+        "job_description": "Manages daily banking operations, customer service, loan processing, and branch development activities.",
+        "eligibility": "Bachelor's degree in any discipline.",
+        "skills_required": ["Customer Service", "Communication", "Decision Making", "Problem Solving", "Numerical Ability"],
+        "education_path": ["Bachelor's Degree"],
+        "related_exams": ["IBPS PO Exam", "SBI PO Exam", "RBI Grade B Exam"],
+        "career_growth": ["Probationary Officer", "Assistant Manager", "Branch Manager", "Senior Branch Manager", "Regional Manager"],
+        "companies_hiring": ["Public Sector Banks", "Private Banks", "Cooperative Banks"],
+        "salary_range": "INR 6 to 15 Lakhs per annum depending on bank and experience"
+    },
+    {
+        "job_name": "Branch Manager",
+        "category": "Banking",
+        "job_description": "Oversees branch operations, manages staff, sales targets, customer relations, and regulatory compliance.",
+        "eligibility": "Bachelor's degree; experience as bank officer is required.",
+        "skills_required": ["Leadership", "Customer Service", "Financial Knowledge", "Operations Management", "Communication"],
+        "education_path": ["Bachelor's Degree", "MBA (optional)"],
+        "related_exams": ["IBPS CWE", "SBI PO Exam", "RBI Grade B Exam (for senior roles)"],
+        "career_growth": ["Assistant Manager", "Branch Manager", "Regional Manager", "Zonal Manager", "General Manager"],
+        "companies_hiring": ["Public Sector Banks", "Private Banks", "Foreign Banks"],
+        "salary_range": "INR 8 to 20 Lakhs per annum depending on experience and bank"
+    },
+    {
+        "job_name": "Credit Officer",
+        "category": "Banking",
+        "job_description": "Assesses loan applications, evaluates credit risk, and ensures compliance with lending policies.",
+        "eligibility": "Bachelor's degree in Finance, Economics, or related field.",
+        "skills_required": ["Analytical Skills", "Risk Assessment", "Communication", "Attention to Detail"],
+        "education_path": ["Bachelor's in Finance/Economics/Commerce"],
+        "related_exams": ["IBPS Specialist Officer Exam", "NISM Certifications"],
+        "career_growth": ["Credit Analyst", "Credit Officer", "Senior Credit Officer", "Credit Manager"],
+        "companies_hiring": ["Banks", "Non-Banking Financial Companies (NBFCs)"],
+        "salary_range": "INR 4 to 12 Lakhs per annum depending on experience"
+    },
+    {
+        "job_name": "Treasury Manager",
+        "category": "Banking",
+        "job_description": "Manages the bank’s liquidity, investments, and risk associated with financial assets.",
+        "eligibility": "Bachelor's degree in Finance, Economics, or related field; experience in treasury or finance preferred.",
+        "skills_required": ["Financial Analysis", "Risk Management", "Communication", "Decision Making"],
+        "education_path": ["Bachelor's in Finance/Economics", "MBA (optional)"],
+        "related_exams": ["CFA", "NISM Treasury Certification"],
+        "career_growth": ["Treasury Analyst", "Treasury Manager", "Head of Treasury"],
+        "companies_hiring": ["Banks", "Financial Institutions"],
+        "salary_range": "INR 8 to 22 Lakhs per annum depending on experience and organization"
+    },
+    {
+        "job_name": "Investment Advisor",
+        "category": "Banking",
+        "job_description": "Provides clients with investment advice and portfolio management services.",
+        "eligibility": "Bachelor's degree in Finance, Economics, or related field; certification in investment advisory services.",
+        "skills_required": ["Financial Knowledge", "Communication", "Analytical Skills", "Customer Service"],
+        "education_path": ["Bachelor's in Finance/Economics", "Certifications such as NISM Investment Advisor License"],
+        "related_exams": ["NISM Investment Advisor Certification"],
+        "career_growth": ["Junior Investment Advisor", "Investment Advisor", "Senior Advisor", "Portfolio Manager"],
+        "companies_hiring": ["Banks", "Investment Firms", "Wealth Management Companies"],
+        "salary_range": "INR 5 to 25 Lakhs per annum depending on experience and company"
+    },
+    {
+        "job_name": "Bank Teller",
+        "category": "Banking",
+        "job_description": "Handles routine banking transactions such as deposits, withdrawals, and assists customers with inquiries.",
+        "eligibility": "High school diploma or equivalent; training provided on the job.",
+        "skills_required": ["Customer Service", "Numerical Ability", "Attention to Detail", "Communication"],
+        "education_path": ["High school diploma", "On-the-job training"],
+        "related_exams": [],
+        "career_growth": ["Bank Teller", "Senior Teller", "Customer Service Representative", "Personal Banker"],
+        "companies_hiring": ["Banks", "Credit Unions"],
+        "salary_range": "INR 2 to 5 Lakhs per annum based on experience and location"
+    }
+]

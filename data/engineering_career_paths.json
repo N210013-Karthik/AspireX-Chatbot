@@ -1,0 +1,403 @@
+[
+    {
+        "job_name": "Software Engineer",
+        "category": "Information Technology",
+        "job_description": "Designs, develops, tests, and maintains software applications, systems, and solutions to meet client and business needs.",
+        "eligibility": "Bachelor's degree in Computer Science, Software Engineering, or related fields.",
+        "skills_required": [
+            "Programming",
+            "Problem Solving",
+            "Data Structures",
+            "Algorithms",
+            "Version Control",
+            "Debugging",
+            "Communication"
+        ],
+        "education_path": [
+            "Bachelor's in Computer Science",
+            "Master's in Software Engineering (optional)"
+        ],
+        "related_exams": [
+            "GATE (CS)",
+            "Infosys Campus Drive",
+            "TCS Ninja",
+            "Amazon Campus Drive"
+        ],
+        "career_growth": [
+            "Junior Software Developer",
+            "Software Engineer",
+            "Senior Software Engineer",
+            "Team Lead",
+            "Project Manager",
+            "Technical Architect"
+        ],
+        "companies_hiring": [
+            "Google",
+            "Microsoft",
+            "Amazon",
+            "Infosys",
+            "TCS",
+            "Wipro",
+            "Accenture"
+        ],
+        "salary_range": "INR 4 to 25 Lakhs per annum depending on experience and company"
+    },
+    {
+        "job_name": "Civil Engineer",
+        "category": "Construction and Infrastructure",
+        "job_description": "Plans, designs, constructs, and maintains infrastructure projects like roads, bridges, buildings, and water supply systems.",
+        "eligibility": "Bachelor's degree in Civil Engineering.",
+        "skills_required": [
+            "Structural Analysis",
+            "Project Management",
+            "AutoCAD",
+            "Surveying",
+            "Construction Management",
+            "Communication"
+        ],
+        "education_path": [
+            "Bachelor's in Civil Engineering",
+            "Master's in Structural or Environmental Engineering (optional)"
+        ],
+        "related_exams": [
+            "GATE (CE)",
+            "IES",
+            "State PSC Exams",
+            "RBI Grade B (for technical roles)"
+        ],
+        "career_growth": [
+            "Junior Engineer",
+            "Project Engineer",
+            "Senior Civil Engineer",
+            "Project Manager",
+            "Consultant"
+        ],
+        "companies_hiring": [
+            "Larsen & Toubro",
+            "Deloitte",
+            "AECOM",
+            "Tata Projects",
+            "Godrej Properties",
+            "HCC"
+        ],
+        "salary_range": "INR 3 to 15 Lakhs per annum depending on experience and company"
+    },
+    {
+        "job_name": "Mechanical Engineer",
+        "category": "Manufacturing and Industrial",
+        "job_description": "Designs, develops, and maintains mechanical systems and machinery across industries like automotive, aerospace, and manufacturing.",
+        "eligibility": "Bachelor's degree in Mechanical Engineering.",
+        "skills_required": [
+            "CAD/CAM",
+            "Thermodynamics",
+            "Material Science",
+            "Manufacturing Processes",
+            "Problem Solving",
+            "Project Management"
+        ],
+        "education_path": [
+            "Bachelor's in Mechanical Engineering",
+            "Master's in Mechanical or Manufacturing Engineering (optional)"
+        ],
+        "related_exams": [
+            "GATE (ME)",
+            "IES",
+            "PSU Exams",
+            "Graduate Aptitude Test in Engineering"
+        ],
+        "career_growth": [
+            "Junior Mechanical Engineer",
+            "Design Engineer",
+            "Senior Mechanical Engineer",
+            "Project Manager",
+            "Department Head"
+        ],
+        "companies_hiring": [
+            "Siemens",
+            "BHEL",
+            "Tata Motors",
+            "Mahindra & Mahindra",
+            "GE",
+            "Larsen & Toubro"
+        ],
+        "salary_range": "INR 3 to 18 Lakhs per annum depending on experience and company"
+    },
+    {
+        "job_name": "Electrical Engineer",
+        "category": "Power and Electrical Systems",
+        "job_description": "Designs, develops, and maintains electrical equipment, systems, and components for power generation, transmission, and utilization.",
+        "eligibility": "Bachelor's degree in Electrical Engineering or Electrical & Electronics Engineering.",
+        "skills_required": [
+            "Circuit Design",
+            "Control Systems",
+            "Power Systems",
+            "Electronics",
+            "MATLAB",
+            "Troubleshooting"
+        ],
+        "education_path": [
+            "Bachelor's in Electrical Engineering",
+            "Master's in Power Systems or Control Engineering (optional)"
+        ],
+        "related_exams": [
+            "GATE (EE)",
+            "IES",
+            "PSU Exams"
+        ],
+        "career_growth": [
+            "Electrical Engineer",
+            "Senior Engineer",
+            "Project Lead",
+            "Consultant",
+            "Manager"
+        ],
+        "companies_hiring": [
+            "ABB",
+            "Schneider Electric",
+            "Siemens",
+            "BHEL",
+            "NTPC",
+            "Power Grid Corporation of India"
+        ],
+        "salary_range": "INR 3 to 17 Lakhs per annum depending on experience and company"
+    },
+    {
+        "job_name": "Chemical Engineer",
+        "category": "Chemical and Process Industry",
+        "job_description": "Develops processes and designs equipment for large-scale manufacturing, planning, and production of chemicals, fuels, drugs, and food.",
+        "eligibility": "Bachelor's degree in Chemical Engineering.",
+        "skills_required": [
+            "Process Design",
+            "Thermodynamics",
+            "Chemical Reaction Engineering",
+            "Safety Management",
+            "Problem Solving"
+        ],
+        "education_path": [
+            "Bachelor's in Chemical Engineering",
+            "Master's in Chemical or Process Engineering (optional)"
+        ],
+        "related_exams": [
+            "GATE (CH)",
+            "IES",
+            "PSU Exams",
+            "Gate CS"
+        ],
+        "career_growth": [
+            "Process Engineer",
+            "Production Engineer",
+            "Senior Chemical Engineer",
+            "Project Manager",
+            "Operations Manager"
+        ],
+        "companies_hiring": [
+            "Reliance Industries",
+            "BASF",
+            "Indian Oil Corporation",
+            "Tata Chemicals",
+            "Linde",
+            "Honeywell"
+        ],
+        "salary_range": "INR 3 to 16 Lakhs per annum depending on experience and company"
+    },
+    {
+        "job_name": "Computer Engineer",
+        "category": "Information Technology",
+        "job_description": "Focuses on computer hardware and software integration, developing firmware, embedded systems, and computer systems design.",
+        "eligibility": "Bachelor's degree in Computer Engineering or related fields.",
+        "skills_required": [
+            "Programming",
+            "Embedded Systems",
+            "Hardware Design",
+            "Operating Systems",
+            "Networking",
+            "Problem Solving"
+        ],
+        "education_path": [
+            "Bachelor's in Computer Engineering",
+            "Master's in Embedded Systems or Computer Engineering (optional)"
+        ],
+        "related_exams": [
+            "GATE (CS)",
+            "IES",
+            "Campus Placement Exams"
+        ],
+        "career_growth": [
+            "Junior Engineer",
+            "Computer Engineer",
+            "Senior Engineer",
+            "Technical Lead",
+            "Project Manager"
+        ],
+        "companies_hiring": [
+            "Intel",
+            "IBM",
+            "Cisco",
+            "Qualcomm",
+            "Dell",
+            "HCL"
+        ],
+        "salary_range": "INR 4 to 20 Lakhs per annum depending on experience and company"
+    },
+    {
+        "job_name": "Environmental Engineer",
+        "category": "Environmental Science and Engineering",
+        "job_description": "Designs technologies and processes to protect the environment by reducing waste, pollution, and improving sustainability.",
+        "eligibility": "Bachelor's degree in Environmental Engineering or related fields.",
+        "skills_required": [
+            "Environmental Impact Analysis",
+            "Waste Management",
+            "Water Treatment",
+            "Regulatory Compliance",
+            "GIS"
+        ],
+        "education_path": [
+            "Bachelor's in Environmental Engineering",
+            "Master's in Environmental Science or Engineering (optional)"
+        ],
+        "related_exams": [
+            "GATE (EE)",
+            "IES",
+            "Public Service Exams"
+        ],
+        "career_growth": [
+            "Environmental Engineer",
+            "Project Engineer",
+            "Senior Environmental Consultant",
+            "Manager"
+        ],
+        "companies_hiring": [
+            "Tata Chemicals",
+            "Larsen & Toubro",
+            "WAPCOS",
+            "Environmental Consulting Firms",
+            "Government Agencies"
+        ],
+        "salary_range": "INR 3 to 14 Lakhs per annum depending on experience and company"
+    },
+    {
+        "job_name": "AI Engineer",
+        "category": "Artificial Intelligence and Machine Learning",
+        "job_description": "Develops intelligent systems and applications using machine learning, deep learning, and data science techniques.",
+        "eligibility": "Bachelor's degree in Computer Science, AI, Data Science, or related fields.",
+        "skills_required": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "TensorFlow/PyTorch",
+            "Mathematics",
+            "Data Handling",
+            "Communication"
+        ],
+        "education_path": [
+            "Bachelor's in Computer Science or AI",
+            "Master's in Artificial Intelligence or Data Science (optional)"
+        ],
+        "related_exams": [
+            "GATE (CS)",
+            "NIELIT Scientist Exam",
+            "Google ML Bootcamp",
+            "AI/ML Hackathons"
+        ],
+        "career_growth": [
+            "AI Intern",
+            "AI Engineer",
+            "Senior ML Engineer",
+            "AI Specialist",
+            "AI Researcher",
+            "AI Architect"
+        ],
+        "companies_hiring": [
+            "Google",
+            "OpenAI",
+            "NVIDIA",
+            "Microsoft",
+            "Amazon",
+            "TCS",
+            "Accenture AI Labs"
+        ],
+        "salary_range": "INR 6 to 30 Lakhs per annum depending on experience and organization"
+    },
+    {
+        "job_name": "Robotics Engineer",
+        "category": "Automation and Robotics",
+        "job_description": "Designs, builds, and programs robots and robotic systems for applications in manufacturing, healthcare, and defense.",
+        "eligibility": "Bachelor's degree in Robotics, Mechanical, Electrical, or Mechatronics Engineering.",
+        "skills_required": [
+            "Embedded Systems",
+            "Control Systems",
+            "Robotics Programming",
+            "C/C++",
+            "ROS",
+            "Mathematics",
+            "CAD"
+        ],
+        "education_path": [
+            "Bachelor's in Mechatronics/Robotics Engineering",
+            "Master's in Robotics or Automation Engineering (optional)"
+        ],
+        "related_exams": [
+            "GATE (ME/EE/EC)",
+            "ISRO Recruitment",
+            "DRDO CEPTAM",
+            "Campus Placements"
+        ],
+        "career_growth": [
+            "Junior Robotics Engineer",
+            "Robotics Developer",
+            "Senior Robotics Engineer",
+            "Automation Specialist",
+            "R&D Manager"
+        ],
+        "companies_hiring": [
+            "Boston Dynamics",
+            "ABB Robotics",
+            "Fanuc",
+            "ISRO",
+            "GreyOrange",
+            "Tata Elxsi"
+        ],
+        "salary_range": "INR 4.5 to 22 Lakhs per annum depending on experience and domain"
+    },
+    {
+        "job_name": "Data Engineer",
+        "category": "Information Technology and Data Science",
+        "job_description": "Designs and maintains scalable data pipelines, databases, and ETL systems to support data analytics and machine learning operations.",
+        "eligibility": "Bachelor's degree in Computer Science, Information Technology, or Data Engineering.",
+        "skills_required": [
+            "SQL",
+            "Python",
+            "Big Data Tools (Hadoop/Spark)",
+            "ETL",
+            "Cloud Platforms (AWS/Azure)",
+            "Data Modeling"
+        ],
+        "education_path": [
+            "Bachelor's in Computer Science or IT",
+            "Master's in Data Engineering or Big Data (optional)"
+        ],
+        "related_exams": [
+            "GATE (CS)",
+            "AWS Data Analytics Certification",
+            "Google Cloud Data Engineer",
+            "Campus Drives"
+        ],
+        "career_growth": [
+            "Data Engineer",
+            "Senior Data Engineer",
+            "Lead Data Engineer",
+            "Data Architect",
+            "Big Data Consultant"
+        ],
+        "companies_hiring": [
+            "Google",
+            "Facebook",
+            "Netflix",
+            "Flipkart",
+            "Infosys",
+            "Capgemini",
+            "Snowflake"
+        ],
+        "salary_range": "INR 6 to 28 Lakhs per annum depending on experience and platform expertise"
+    }
+]

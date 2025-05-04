@@ -1,0 +1,122 @@
+[
+    {
+        "job_name": "Physical Education Teacher (PET)",
+        "category": "Sports ",
+        "job_description": "Teachers who specialize in physical education and sports training at schools, colleges, and universities. They work to improve physical fitness and teach sports-related subjects.",
+        "eligibility": "Bachelor's degree in Physical Education (B.P.Ed) or equivalent. Master's degree (M.P.Ed) for higher positions.",
+        "skills_required": ["Teaching", "Physical fitness training", "Sports knowledge", "Communication"],
+        "education_path": ["B.P.Ed (Bachelor's in Physical Education)", "M.P.Ed (Master's in Physical Education)"],
+        "related_exams": ["TET (Teacher Eligibility Test)", "State-level PET exams"],
+        "career_growth": ["Senior PET", "Sports Director", "Physical Education Professor"],
+        "companies_hiring": ["Schools", "Colleges", "Private coaching institutes"],
+        "salary_range": "₹25,000 - ₹50,000 per month"
+    },
+    {
+        "job_name": "Government Physical Education Teacher (Govt PET)",
+        "category": "Sports",
+        "job_description": "Similar to a PET but working specifically within government-run schools and educational institutions. Hired through competitive exams conducted by state or central governments.",
+        "eligibility": "Bachelor’s or Master’s degree in Physical Education, and passing government exams like TET.",
+        "skills_required": ["Teaching", "Physical fitness training", "Sports knowledge", "Communication"],
+        "education_path": ["B.P.Ed", "M.P.Ed"],
+        "related_exams": ["TET (Teacher Eligibility Test)", "State Government PET Exams"],
+        "career_growth": ["Senior PET in Govt Schools", "Sports Officer", "Educational Administrator"],
+        "companies_hiring": ["Government Schools", "State Government Sports Departments"],
+        "salary_range": "₹30,000 - ₹55,000 per month"
+    },
+    {
+        "job_name": "Sports Coach (Govt & Private)",
+        "category": "Sports",
+        "job_description": "Coaches who train athletes at various levels in government-run sports academies, universities, or private coaching institutions.",
+        "eligibility": "National or state-level certification in specific sports, coaching diplomas (NIS – National Institute of Sports), and relevant experience.",
+        "skills_required": ["Coaching", "Sports strategy", "Fitness training", "Motivational skills"],
+        "education_path": ["NIS Coaching Diploma", "Sports Coaching Certification"],
+        "related_exams": ["NIS Certification Exam", "State-Level Coaching Exams"],
+        "career_growth": ["Head Coach", "National Coach", "Sports Director"],
+        "companies_hiring": ["Government Sports Academies", "Private Coaching Institutes", "Sports Clubs"],
+        "salary_range": "₹40,000 - ₹70,000 per month"
+    },
+    {
+        "job_name": "Sports Officer (Govt Sector)",
+        "category": "Sports",
+        "job_description": "Works in the government sector, managing and promoting sports activities, organizing tournaments, and facilitating development in sports.",
+        "eligibility": "Bachelor’s or Master’s in Physical Education, Sports Management, or related fields. Competitive exams for government jobs like UPSC or state exams.",
+        "skills_required": ["Administration", "Event management", "Team management", "Public relations"],
+        "education_path": ["B.P.Ed", "M.P.Ed", "Sports Management Degree"],
+        "related_exams": ["UPSC", "State Government Sports Officer Exams"],
+        "career_growth": ["Senior Sports Officer", "Director of Sports", "Sports Ministry"],
+        "companies_hiring": ["State Sports Federations", "Government Sports Departments"],
+        "salary_range": "₹50,000 - ₹90,000 per month"
+    },
+    {
+        "job_name": "Sports Authority of India (SAI) Coach",
+        "category": "Sports",
+        "job_description": "Coaches employed by the Sports Authority of India to help train athletes at the national level, particularly in government-run sports academies.",
+        "eligibility": "National or international certification in coaching, such as a Level 1/2/3 coaching certification from SAI, or experience in sports.",
+        "skills_required": ["Coaching", "Team leadership", "Fitness training", "Performance analysis"],
+        "education_path": ["NIS Coaching Diploma", "SAI Level Certification"],
+        "related_exams": ["SAI Coaching Exams"],
+        "career_growth": ["Head Coach", "National Team Coach", "Director of Sports Development"],
+        "companies_hiring": ["Sports Authority of India", "Government Sports Academies"],
+        "salary_range": "₹45,000 - ₹75,000 per month"
+    },
+    {
+        "job_name": "Government Physical Education Instructor",
+        "category": "Sports",
+        "job_description": "Works with government organizations (like the Indian Army, Navy, or police force) to provide fitness training and physical education to recruits.",
+        "eligibility": "Physical Education Degree, experience in fitness training, and passing specific exams based on the government organization.",
+        "skills_required": ["Fitness training", "Physical assessment", "Team leadership", "Discipline"],
+        "education_path": ["B.P.Ed", "M.P.Ed"],
+        "related_exams": ["Indian Army Physical Training Exam", "Police Training Exam"],
+        "career_growth": ["Head Instructor", "Training Officer", "Fitness Consultant"],
+        "companies_hiring": ["Indian Army", "Indian Navy", "Police Training Centers"],
+        "salary_range": "₹35,000 - ₹60,000 per month"
+    },
+    {
+        "job_name": "Sports Development Officer (Government)",
+        "category": "Sports",
+        "job_description": "Oversees and manages sports programs within the government, including development initiatives and organizing community sports events.",
+        "eligibility": "Degree in Physical Education or Sports Management, and passing related exams for government sports administration jobs.",
+        "skills_required": ["Event management", "Program planning", "Leadership", "Community engagement"],
+        "education_path": ["B.P.Ed", "M.P.Ed", "Sports Management Degree"],
+        "related_exams": ["State Government Sports Development Exams"],
+        "career_growth": ["Senior Sports Development Officer", "Sports Minister", "Director of Sports Development"],
+        "companies_hiring": ["State Sports Federations", "National Sports Development Authority"],
+        "salary_range": "₹40,000 - ₹70,000 per month"
+    },
+    {
+        "job_name": "Sports Nutritionist (Govt Sector)",
+        "category": "Sports",
+        "job_description": "Works with government-run sports academies or teams to provide athletes with specialized dietary guidance to enhance performance and recovery.",
+        "eligibility": "Degree or diploma in Sports Nutrition or Dietetics. Relevant exams may be required for government employment.",
+        "skills_required": ["Nutrition planning", "Dietary guidance", "Athlete wellness", "Research"],
+        "education_path": ["Sports Nutrition Degree", "Dietetics Diploma"],
+        "related_exams": ["Sports Nutritionist Exam"],
+        "career_growth": ["Senior Sports Nutritionist", "Chief Dietitian", "Sports Nutrition Advisor"],
+        "companies_hiring": ["Government Sports Academies", "National Institutes of Sports"],
+        "salary_range": "₹35,000 - ₹60,000 per month"
+    },
+    {
+        "job_name": "Sports Scientist (Govt Research Institutions)",
+        "category": "Sports",
+        "job_description": "Works in government research institutions focused on sports science, improving athletic performance through technology, biomechanics, and other scientific studies.",
+        "eligibility": "Degree in Sports Science or related fields. Often requires a postgraduate degree or specific research experience.",
+        "skills_required": ["Research", "Data analysis", "Biomechanics", "Performance optimization"],
+        "education_path": ["B.Sc in Sports Science", "M.Sc/Ph.D. in Sports Science"],
+        "related_exams": ["Research-based exams"],
+        "career_growth": ["Lead Researcher", "Sports Science Consultant", "Sports Research Director"],
+        "companies_hiring": ["Sports Research Institutes", "National Sports Institutes"],
+        "salary_range": "₹50,000 - ₹90,000 per month"
+    },
+    {
+        "job_name": "Sports Organizer (Govt and Private Sector)",
+        "category": "Sports",
+        "job_description": "Organizes local, regional, and national sports events or tournaments in both the government and private sectors.",
+        "eligibility": "Degree or diploma in event management or sports management, sometimes with experience in organizing sports events.",
+        "skills_required": ["Event management", "Public relations", "Team coordination", "Marketing"],
+        "education_path": ["Sports Management Degree", "Event Management Diploma"],
+        "related_exams": ["Event Management Certification Exams"],
+        "career_growth": ["Event Director", "Sports Event Manager", "Marketing Director"],
+        "companies_hiring": ["Government Sports Departments", "Private Sports Event Organizers"],
+        "salary_range": "₹30,000 - ₹60,000 per month"
+    }
+]

@@ -1,0 +1,711 @@
+[
+    {
+        "job_name": "Army Infantry Officer",
+        "category": "Defense - Army",
+        "job_description": "Leads and commands infantry units in ground combat operations. Directs soldiers in tactical missions, coordinates fire support, and conducts reconnaissance. Responsible for training, developing, and maintaining combat readiness of infantry soldiers.",
+        "eligibility": "Bachelor's degree; commission through military academy, ROTC, or OCS; U.S. citizenship; meet physical fitness standards; pass medical examination; age typically between 18-32; security clearance eligibility",
+        "skills_required": [
+            "Tactical and strategic planning",
+            "Leadership under pressure",
+            "Weapons systems proficiency",
+            "Land navigation and terrain analysis",
+            "Physical fitness and endurance",
+            "Decision-making in high-stress environments",
+            "Small unit tactics",
+            "Team building and personnel development"
+        ],
+        "education_path": [
+            "Bachelor's degree",
+            "Officer commissioning source (West Point, ROTC, or OCS)",
+            "Basic Officer Leaders Course (BOLC)",
+            "Infantry Basic Officer Leaders Course (IBOLC)",
+            "Ranger School (often expected)",
+            "Advanced military education for career progression"
+        ],
+        "related_exams": [
+            "Army Physical Fitness Test (APFT) or Army Combat Fitness Test (ACFT)",
+            "Land navigation qualification",
+            "Weapons qualification",
+            "Ranger, Airborne, or Air Assault qualification tests",
+            "Security clearance investigation"
+        ],
+        "career_growth": [
+            "Platoon Leader",
+            "Company Executive Officer",
+            "Company Commander",
+            "Battalion Operations Officer (S3)",
+            "Battalion Executive Officer",
+            "Battalion Commander",
+            "Brigade and higher command positions"
+        ],
+        "companies_hiring": [
+            "U.S. Army Active Duty",
+            "Army National Guard",
+            "Army Reserves",
+            "Department of Defense (civilian roles post-service)",
+            "Defense contractors (post-service)",
+            "Security consulting firms (post-service)",
+            "Law enforcement agencies (post-service)"
+        ],
+        "salary_range": "$40,000 - $150,000+ annually depending on rank, years of service, and additional allowances"
+    },
+    {
+        "job_name": "Army Armor Officer",
+        "category": "Defense - Army",
+        "job_description": "Commands armored and cavalry units including tanks and reconnaissance vehicles. Plans and executes combined arms operations, leads soldiers in mounted and dismounted operations, and employs armored platforms in offensive and defensive scenarios.",
+        "eligibility": "Bachelor's degree; commission through military academy, ROTC, or OCS; U.S. citizenship; meet physical requirements; pass medical examination; security clearance eligibility",
+        "skills_required": [
+            "Armored vehicle operations and tactics",
+            "Combined arms warfare principles",
+            "Mounted and dismounted maneuver tactics",
+            "Leadership and personnel management",
+            "Technical understanding of armor systems",
+            "Battlefield analysis and planning",
+            "Maintenance management",
+            "Communication and coordination"
+        ],
+        "education_path": [
+            "Bachelor's degree",
+            "Officer commissioning source (West Point, ROTC, or OCS)",
+            "Basic Officer Leaders Course (BOLC)",
+            "Armor Basic Officer Leaders Course (ABOLC)",
+            "Scout Leader Course or Cavalry Leader Course",
+            "Advanced military education for career progression"
+        ],
+        "related_exams": [
+            "Army Physical Fitness Test (APFT) or Army Combat Fitness Test (ACFT)",
+            "Armor gunnery qualifications",
+            "Vehicle commander certifications",
+            "Weapons qualification",
+            "Security clearance investigation"
+        ],
+        "career_growth": [
+            "Tank Platoon Leader",
+            "Scout Platoon Leader",
+            "Company Executive Officer",
+            "Troop/Company Commander",
+            "Battalion Operations Officer (S3)",
+            "Squadron/Battalion Executive Officer",
+            "Squadron/Battalion Commander"
+        ],
+        "companies_hiring": [
+            "U.S. Army Active Duty",
+            "Army National Guard",
+            "Army Reserves",
+            "Defense contractors (post-service)",
+            "Armored vehicle manufacturers (post-service)",
+            "Military training companies (post-service)",
+            "Security consulting firms (post-service)"
+        ],
+        "salary_range": "$40,000 - $150,000+ annually depending on rank, years of service, and additional allowances"
+    },
+    {
+        "job_name": "Army Military Intelligence Officer",
+        "category": "Defense - Army",
+        "job_description": "Collects, analyzes, and disseminates intelligence to support Army operations. Oversees intelligence collection efforts, produces intelligence products, and provides command with information about enemy forces, terrain, and other operational factors.",
+        "eligibility": "Bachelor's degree; commission through military academy, ROTC, or OCS; U.S. citizenship; ability to obtain Top Secret/SCI security clearance; foreign language proficiency beneficial",
+        "skills_required": [
+            "Intelligence analysis and synthesis",
+            "Information collection management",
+            "Geospatial intelligence utilization",
+            "Threat assessment and forecasting",
+            "Intelligence preparation of the battlefield",
+            "Leadership and team management",
+            "Intelligence systems operation",
+            "Written and verbal communication"
+        ],
+        "education_path": [
+            "Bachelor's degree (Intelligence Studies, International Relations beneficial)",
+            "Officer commissioning source (West Point, ROTC, or OCS)",
+            "Military Intelligence Basic Officer Leader Course (MIBOLC)",
+            "Intelligence specific technical training",
+            "Defense Language Institute (for language training if assigned)",
+            "Advanced military intelligence courses"
+        ],
+        "related_exams": [
+            "Army Physical Fitness Test (APFT) or Army Combat Fitness Test (ACFT)",
+            "Defense Language Aptitude Battery (DLAB) if applicable",
+            "Top Secret/SCI clearance investigation",
+            "Counterintelligence scope polygraph",
+            "Intelligence systems certification exams"
+        ],
+        "career_growth": [
+            "Intelligence Platoon Leader",
+            "Battalion Intelligence Officer (S2)",
+            "Company Commander",
+            "Brigade Intelligence Officer",
+            "Division/Corps Intelligence Staff",
+            "Intelligence Battalion Commander",
+            "Senior Intelligence Officer"
+        ],
+        "companies_hiring": [
+            "U.S. Army Active Duty",
+            "Army National Guard",
+            "Army Reserves",
+            "Defense Intelligence Agency",
+            "National Security Agency",
+            "Central Intelligence Agency (post-service)",
+            "Intelligence-focused defense contractors"
+        ],
+        "salary_range": "$40,000 - $150,000+ annually depending on rank, years of service, and additional allowances"
+    },
+    {
+        "job_name": "Army Combat Medic",
+        "category": "Defense - Army",
+        "job_description": "Provides emergency medical treatment and trauma care to wounded soldiers in combat environments. Administers first aid, stabilizes casualties, prepares them for evacuation, and assists with preventive medicine and health protection measures.",
+        "eligibility": "High school diploma or equivalent; U.S. citizenship; qualifying ASVAB scores; ability to obtain security clearance; physical fitness requirements; comfort with emergency medical procedures",
+        "skills_required": [
+            "Emergency medical care and trauma management",
+            "Combat casualty assessment and triage",
+            "Tactical combat casualty care protocols",
+            "Medication administration",
+            "IV therapy and fluid resuscitation",
+            "Airway management",
+            "Evacuation procedures",
+            "Preventive medicine techniques"
+        ],
+        "education_path": [
+            "High school diploma or equivalent",
+            "Army Basic Combat Training",
+            "Combat Medic Specialist Course (16 weeks)",
+            "Emergency Medical Technician (EMT) certification",
+            "Advanced medical training opportunities",
+            "Non-commissioned officer development courses for advancement"
+        ],
+        "related_exams": [
+            "Armed Services Vocational Aptitude Battery (ASVAB)",
+            "Army Physical Fitness Test (APFT) or Army Combat Fitness Test (ACFT)",
+            "EMT certification exam",
+            "Combat Medic qualification tests",
+            "Advanced medical certifications as career progresses"
+        ],
+        "career_growth": [
+            "Junior Combat Medic",
+            "Senior Combat Medic",
+            "Medical Squad Leader",
+            "Platoon Sergeant",
+            "Medical Operations NCO",
+            "First Sergeant",
+            "Sergeant Major",
+            "Warrant Officer or Commission through OCS possible"
+        ],
+        "companies_hiring": [
+            "U.S. Army Active Duty",
+            "Army National Guard",
+            "Army Reserves",
+            "Veterans Health Administration (post-service)",
+            "Civilian emergency medical services (post-service)",
+            "Hospitals and trauma centers (post-service)",
+            "Disaster response organizations (post-service)"
+        ],
+        "salary_range": "$25,000 - $80,000+ annually depending on rank, years of service, and additional allowances"
+    },
+    {
+        "job_name": "Navy Surface Warfare Officer",
+        "category": "Defense - Navy",
+        "job_description": "Operates and commands surface ships including destroyers, cruisers, and amphibious vessels. Responsible for ship navigation, weapons systems, mission execution, and leadership of sailors. Coordinates with other naval and joint forces during operations.",
+        "eligibility": "Bachelor's degree; commission through Naval Academy, NROTC, or OCS; U.S. citizenship; meet physical and medical requirements; vision correctable to 20/20; security clearance eligibility",
+        "skills_required": [
+            "Ship handling and navigation",
+            "Naval tactics and operations",
+            "Maritime warfare systems operation",
+            "Naval leadership and management",
+            "Damage control procedures",
+            "Maritime law and rules of engagement",
+            "Joint operations coordination",
+            "Critical decision-making under pressure"
+        ],
+        "education_path": [
+            "Bachelor's degree",
+            "Officer commissioning source (Naval Academy, NROTC, or OCS)",
+            "Surface Warfare Officers School Basic Division Officer Course",
+            "Division Officer assignments aboard ship",
+            "Department Head School",
+            "Advanced naval education for career progression"
+        ],
+        "related_exams": [
+            "Navy Physical Readiness Test",
+            "Surface Warfare Officer qualification process",
+            "Officer Aptitude Rating",
+            "Engineering certification exams",
+            "Combat Systems qualification exams",
+            "Security clearance investigation"
+        ],
+        "career_growth": [
+            "Division Officer",
+            "Department Head",
+            "Executive Officer",
+            "Commanding Officer of ship",
+            "Commander of destroyer or cruiser squadron",
+            "Naval staff positions",
+            "Admiral ranks for exceptional officers"
+        ],
+        "companies_hiring": [
+            "U.S. Navy Active Duty",
+            "Navy Reserve",
+            "Military Sealift Command",
+            "Maritime industry (post-service)",
+            "Shipping companies (post-service)",
+            "Port authorities (post-service)",
+            "Defense contractors with naval focus (post-service)"
+        ],
+        "salary_range": "$40,000 - $150,000+ annually depending on rank, years of service, and additional allowances"
+    },
+    {
+        "job_name": "Navy Submarine Officer",
+        "category": "Defense - Navy",
+        "job_description": "Operates and leads crews aboard nuclear submarines. Responsible for submarine operations, navigation, weapons systems, nuclear propulsion plant operations, and mission execution in undersea environments. Conducts deterrence patrols and special operations.",
+        "eligibility": "Bachelor's degree in technical field preferred; commission through Naval Academy, NROTC, or OCS; U.S. citizenship; pass nuclear propulsion physical standards; superior academic performance; rigorous security clearance standards",
+        "skills_required": [
+            "Nuclear propulsion theory and operation",
+            "Submarine systems management",
+            "Undersea warfare tactics",
+            "Navigation in three-dimensional environment",
+            "Leadership in isolated conditions",
+            "Crisis management",
+            "Advanced technical problem-solving",
+            "Strategic and tactical planning"
+        ],
+        "education_path": [
+            "Bachelor's degree (engineering or technical field preferred)",
+            "Officer commissioning source (Naval Academy, NROTC, or OCS)",
+            "Nuclear Power School (6 months)",
+            "Nuclear Power Training Unit (6 months)",
+            "Submarine Officer Basic Course",
+            "Qualification as submarine warfare officer (dolphins)"
+        ],
+        "related_exams": [
+            "Nuclear Officer Candidate screening tests",
+            "Technical interviews for nuclear program",
+            "Navy Physical Readiness Test",
+            "Nuclear propulsion qualification exams",
+            "Submarine systems qualification boards",
+            "Top Secret/SCI clearance investigation"
+        ],
+        "career_growth": [
+            "Division Officer",
+            "Department Head",
+            "Executive Officer",
+            "Commanding Officer of submarine",
+            "Submarine Squadron Commander",
+            "Submarine Group Commander",
+            "Flag officer positions"
+        ],
+        "companies_hiring": [
+            "U.S. Navy Active Duty",
+            "Navy Reserve",
+            "Department of Energy",
+            "Nuclear power industry (post-service)",
+            "Naval reactors program",
+            "Defense contractors with submarine expertise",
+            "Nuclear regulatory organizations"
+        ],
+        "salary_range": "$45,000 - $160,000+ annually depending on rank, years of service, submarine duty pay, and nuclear officer bonus"
+    },
+    {
+        "job_name": "Navy Aviator",
+        "category": "Defense - Navy",
+        "job_description": "Pilots naval aircraft including fighters, helicopters, maritime patrol, and transport aircraft. Conducts missions such as combat air patrol, anti-submarine warfare, reconnaissance, carrier operations, search and rescue, and logistics support.",
+        "eligibility": "Bachelor's degree; commission as officer; U.S. citizenship; age typically under 32 for flight training; excellent vision (correctable to 20/20); pass flight physical; meet anthropometric requirements; security clearance eligibility",
+        "skills_required": [
+            "Aircraft operation and navigation",
+            "Carrier landing procedures (fixed-wing pilots)",
+            "Formation flying",
+            "Tactical air combat maneuvering",
+            "Mission planning and execution",
+            "Emergency procedures",
+            "Communication and coordination",
+            "Instrument flight rules operations"
+        ],
+        "education_path": [
+            "Bachelor's degree",
+            "Officer commissioning source (Naval Academy, NROTC, or OCS)",
+            "Aviation Preflight Indoctrination",
+            "Primary flight training",
+            "Advanced flight training in selected aircraft type",
+            "Fleet Replacement Squadron training"
+        ],
+        "related_exams": [
+            "Aviation Selection Test Battery (ASTB)",
+            "Flight physical examination",
+            "Navy Physical Readiness Test",
+            "Instrument flight examinations",
+            "Aircraft-specific qualification tests",
+            "Security clearance investigation"
+        ],
+        "career_growth": [
+            "Student Naval Aviator",
+            "Squadron pilot",
+            "Flight leader",
+            "Department Head",
+            "Executive Officer of squadron",
+            "Commanding Officer of squadron",
+            "Air Wing Commander"
+        ],
+        "companies_hiring": [
+            "U.S. Navy Active Duty",
+            "Navy Reserve",
+            "Commercial airlines (post-service)",
+            "Aircraft manufacturers (post-service)",
+            "NASA (astronaut program)",
+            "Aviation-related defense contractors",
+            "Department of Homeland Security"
+        ],
+        "salary_range": "$45,000 - $150,000+ annually depending on rank, years of service, flight pay, and additional allowances"
+    },
+    {
+        "job_name": "Navy Corpsman",
+        "category": "Defense - Navy",
+        "job_description": "Provides medical support to Navy and Marine Corps personnel. Delivers emergency medical care in combat situations, assists medical officers with treatment, maintains medical records, administers medications, and conducts preventive care programs.",
+        "eligibility": "High school diploma or equivalent; U.S. citizenship; qualifying ASVAB scores; normal color perception; comfort with medical procedures; security clearance eligibility",
+        "skills_required": [
+            "Emergency medical treatment",
+            "Battlefield trauma care",
+            "Wound management and suturing",
+            "Medication administration",
+            "Patient assessment and vital signs monitoring",
+            "Field sanitation and preventive medicine",
+            "Medical evacuation procedures",
+            "Medical documentation"
+        ],
+        "education_path": [
+            "High school diploma or equivalent",
+            "Navy Boot Camp",
+            "Hospital Corpsman 'A' School (14 weeks)",
+            "Field Medical Service School (for those assigned to Marine units)",
+            "Advanced medical training opportunities",
+            "Specialized Navy medical programs"
+        ],
+        "related_exams": [
+            "Armed Services Vocational Aptitude Battery (ASVAB)",
+            "Navy Physical Readiness Test",
+            "Hospital Corpsman skills assessments",
+            "EMT certification (often acquired)",
+            "Advanced medical certifications as career progresses"
+        ],
+        "career_growth": [
+            "Junior Hospital Corpsman",
+            "Leading Petty Officer",
+            "Chief Petty Officer",
+            "Senior Chief Petty Officer",
+            "Master Chief Petty Officer",
+            "Command Master Chief",
+            "Medical Service Corps Officer (with additional education)"
+        ],
+        "companies_hiring": [
+            "U.S. Navy Active Duty",
+            "Navy Reserve",
+            "Veterans Health Administration",
+            "Civilian hospitals and emergency services (post-service)",
+            "Medical equipment companies (post-service)",
+            "Pharmaceutical companies (post-service)",
+            "Disaster response organizations (post-service)"
+        ],
+        "salary_range": "$25,000 - $80,000+ annually depending on rank, years of service, and additional allowances"
+    },
+    {
+        "job_name": "Air Force Fighter Pilot",
+        "category": "Defense - Air Force",
+        "job_description": "Operates combat aircraft such as F-16, F-15, F-22, or F-35 to conduct air superiority, air defense, and air-to-ground attack missions. Performs tactical flight maneuvers, engages aerial targets, delivers precision munitions, and supports joint force operations.",
+        "eligibility": "Bachelor's degree; commission as officer; U.S. citizenship; age typically under 33 for pilot training; perfect color vision; 20/20 vision or correctable; height between 64-77 inches; security clearance eligibility",
+        "skills_required": [
+            "Advanced aircraft handling and maneuvering",
+            "Air combat tactics",
+            "Weapons systems employment",
+            "Formation flying",
+            "Tactical decision-making at high speeds",
+            "Mission planning and briefing",
+            "Situational awareness in complex environments",
+            "G-force tolerance and physiological control"
+        ],
+        "education_path": [
+            "Bachelor's degree",
+            "Officer commissioning source (Air Force Academy, ROTC, or OTS)",
+            "Initial Flight Screening",
+            "Undergraduate Pilot Training (UPT)",
+            "Introduction to Fighter Fundamentals (IFF)",
+            "Fighter-specific training (F-16, F-15, F-22, or F-35)"
+        ],
+        "related_exams": [
+            "Air Force Officer Qualifying Test (AFOQT)",
+            "Test of Basic Aviation Skills (TBAS)",
+            "Flight physical examination",
+            "Pilot Candidate Selection Method (PCSM) score",
+            "Instrument and qualification check rides",
+            "Security clearance investigation"
+        ],
+        "career_growth": [
+            "Wingman",
+            "Flight Lead",
+            "Instructor Pilot",
+            "Weapons School Graduate",
+            "Squadron Operations Officer",
+            "Squadron Commander",
+            "Wing Commander"
+        ],
+        "companies_hiring": [
+            "U.S. Air Force Active Duty",
+            "Air National Guard",
+            "Air Force Reserve",
+            "Commercial airlines (post-service)",
+            "Aircraft manufacturers as test pilots (post-service)",
+            "NASA (astronaut program)",
+            "Defense contractors (post-service)"
+        ],
+        "salary_range": "$45,000 - $150,000+ annually depending on rank, years of service, flight pay, and additional allowances"
+    },
+    {
+        "job_name": "Air Force Special Tactics Officer",
+        "category": "Defense - Air Force",
+        "job_description": "Leads Air Force special operations ground forces that deploy into hostile environments to establish assault zones, conduct air traffic control, provide medical care, execute personnel recovery, and call in air strikes. Trains, equips, and employs combat controllers, pararescuemen, and special reconnaissance teams.",
+        "eligibility": "Bachelor's degree; commission as officer; U.S. citizenship; exceptional physical fitness; pass medical examination; airborne qualification; combat diver qualification; ability to obtain Top Secret clearance",
+        "skills_required": [
+            "Special tactics planning and execution",
+            "Close air support coordination",
+            "Airfield seizure and control operations",
+            "Combat search and rescue",
+            "Parachuting and military freefall",
+            "Combat diving and water operations",
+            "Land navigation and fieldcraft",
+            "Leadership in extreme environments"
+        ],
+        "education_path": [
+            "Bachelor's degree",
+            "Officer commissioning source (Air Force Academy, ROTC, or OTS)",
+            "Special Tactics Officer Assessment and Selection",
+            "Combat Control School or Special Tactics Training Squadron",
+            "Army Airborne School",
+            "Military Freefall Parachutist Course",
+            "Combat Diver Qualification Course"
+        ],
+        "related_exams": [
+            "Physical Abilities and Stamina Test (PAST)",
+            "Air Force Physical Fitness Test",
+            "Combat Control operator qualification tests",
+            "Psychological evaluations",
+            "Special operations medical certification",
+            "Top Secret clearance investigation"
+        ],
+        "career_growth": [
+            "Special Tactics Team Leader",
+            "Special Tactics Squadron Operations Officer",
+            "Special Tactics Squadron Commander",
+            "Special Tactics Group Commander",
+            "Special Operations Wing leadership",
+            "Joint Special Operations Command positions",
+            "Air Force Special Operations Command leadership"
+        ],
+        "companies_hiring": [
+            "U.S. Air Force Active Duty",
+            "Air Force Reserve",
+            "Air National Guard",
+            "Federal law enforcement agencies (post-service)",
+            "Security consulting firms (post-service)",
+            "Special operations contractors (post-service)",
+            "Emergency management organizations (post-service)"
+        ],
+        "salary_range": "$45,000 - $150,000+ annually depending on rank, years of service, special duty pay, and additional allowances"
+    },
+    {
+        "job_name": "Air Force Cyber Operations Officer",
+        "category": "Defense - Air Force",
+        "job_description": "Plans and conducts offensive and defensive cyberspace operations to protect Air Force networks and information systems. Directs the defense, exploitation, and attack of hostile cyberspace targets. Leads teams in conducting cyber warfare and supporting intelligence operations.",
+        "eligibility": "Bachelor's degree in computer science, engineering, or related technical field preferred; commission as officer; U.S. citizenship; ability to obtain Top Secret/SCI clearance; aptitude for technical systems",
+        "skills_required": [
+            "Cyber warfare strategy and tactics",
+            "Network defense and security",
+            "Vulnerability assessment",
+            "Malware analysis and countermeasures",
+            "Programming and scripting",
+            "System architecture understanding",
+            "Leadership of technical teams",
+            "Intelligence integration with cyber operations"
+        ],
+        "education_path": [
+            "Bachelor's degree in Computer Science, Cyber Security, or related field",
+            "Officer commissioning source (Air Force Academy, ROTC, or OTS)",
+            "Undergraduate Cyber Training",
+            "Cyber Operations Officer Course",
+            "Advanced cyber warfare training",
+            "Joint cyber operations courses"
+        ],
+        "related_exams": [
+            "Air Force Officer Qualifying Test (AFOQT)",
+            "Technical aptitude assessments",
+            "Cyber operations qualification exams",
+            "Security+ certification",
+            "Top Secret/SCI clearance investigation",
+            "Cyber-specific certification exams"
+        ],
+        "career_growth": [
+            "Cyber Warfare Operations Officer",
+            "Cyber Operations Flight Commander",
+            "Squadron Operations Officer",
+            "Cyber Squadron Commander",
+            "Cyber Group Commander",
+            "Cyber Wing Commander",
+            "Cyber Command leadership positions"
+        ],
+        "companies_hiring": [
+            "U.S. Air Force Active Duty",
+            "Air Force Reserve",
+            "Air National Guard",
+            "National Security Agency",
+            "U.S. Cyber Command",
+            "Defense Information Systems Agency",
+            "Cybersecurity companies (post-service)"
+        ],
+        "salary_range": "$45,000 - $150,000+ annually depending on rank, years of service, and additional allowances"
+    },
+    {
+        "job_name": "Air Force Security Forces Officer",
+        "category": "Defense - Air Force",
+        "job_description": "Commands Air Force security personnel responsible for protecting air bases, nuclear weapons facilities, and other sensitive installations. Directs law enforcement, anti-terrorism, physical security, and combat arms operations to defend Air Force resources.",
+        "eligibility": "Bachelor's degree; commission as officer; U.S. citizenship; pass security investigation; meet physical fitness standards; leadership aptitude; ability to obtain security clearance",
+        "skills_required": [
+            "Force protection and base defense planning",
+            "Law enforcement operations management",
+            "Security systems implementation",
+            "Anti-terrorism and force protection measures",
+            "Weapons and tactics instruction",
+            "Emergency response coordination",
+            "Personnel and resource management",
+            "Military justice understanding"
+        ],
+        "education_path": [
+            "Bachelor's degree",
+            "Officer commissioning source (Air Force Academy, ROTC, or OTS)",
+            "Security Forces Officer Course",
+            "Advanced Security Forces training",
+            "Specialized training in nuclear security or air base defense",
+            "Advanced military education for career progression"
+        ],
+        "related_exams": [
+            "Air Force Officer Qualifying Test (AFOQT)",
+            "Air Force Physical Fitness Test",
+            "Weapons qualification",
+            "Security Forces technical training exams",
+            "Security clearance investigation"
+        ],
+        "career_growth": [
+            "Flight Commander",
+            "Operations Officer",
+            "Squadron Commander",
+            "Security Forces Group Commander",
+            "Installation Commander",
+            "Major Command Security Forces Director",
+            "Headquarters Air Force Security Forces leadership"
+        ],
+        "companies_hiring": [
+            "U.S. Air Force Active Duty",
+            "Air Force Reserve",
+            "Air National Guard",
+            "Department of Homeland Security (post-service)",
+            "Law enforcement agencies (post-service)",
+            "Security consulting firms (post-service)",
+            "Defense contractors (post-service)"
+        ],
+        "salary_range": "$40,000 - $140,000+ annually depending on rank, years of service, and additional allowances"
+    },
+    {
+        "job_name": "Marine Corps Infantry Officer",
+        "category": "Defense - Marine Corps",
+        "job_description": "Leads and commands Marine infantry units in ground combat operations. Plans and executes offensive and defensive operations, directs fire support, and conducts amphibious assaults. Responsible for the training, discipline, and welfare of Marine infantry personnel.",
+        "eligibility": "Bachelor's degree; commission through Naval Academy, NROTC, or OCS; U.S. citizenship; excellent physical fitness; pass medical examination; leadership potential; age typically under 28",
+        "skills_required": [
+            "Infantry tactics and maneuver warfare",
+            "Small unit leadership",
+            "Weapons employment and fire support coordination",
+            "Amphibious operations planning",
+            "Land navigation and terrain analysis",
+            "Physical and mental toughness",
+            "Decision-making under extreme conditions",
+            "Close combat leadership"
+        ],
+        "education_path": [
+            "Bachelor's degree",
+            "Officer commissioning source (Naval Academy, NROTC, or OCS)",
+            "The Basic School (TBS) - 6 months",
+            "Infantry Officer Course (IOC) - 13 weeks",
+            "Specialized infantry training courses",
+            "Advanced military education for career progression"
+        ],
+        "related_exams": [
+            "Marine Corps Physical Fitness Test (PFT)",
+            "Combat Fitness Test (CFT)",
+            "Land navigation qualification",
+            "Weapons qualification",
+            "Security clearance investigation"
+        ],
+        "career_growth": [
+            "Rifle Platoon Commander",
+            "Company Executive Officer",
+            "Infantry Company Commander",
+            "Battalion Operations Officer",
+            "Battalion Executive Officer",
+            "Infantry Battalion Commander",
+            "Regimental Commander"
+        ],
+        "companies_hiring": [
+            "U.S. Marine Corps Active Duty",
+            "Marine Corps Reserve",
+            "Federal law enforcement agencies (post-service)",
+            "Defense contractors (post-service)",
+            "Security consulting firms (post-service)",
+            "Emergency management organizations (post-service)",
+            "Corporate security leadership (post-service)"
+        ],
+        "salary_range": "$40,000 - $150,000+ annually depending on rank, years of service, and additional allowances"
+    },
+    {
+        "job_name": "Coast Guard Maritime Law Enforcement Specialist",
+        "category": "Defense - Coast Guard",
+        "job_description": "Enforces federal laws and treaties on domestic and international waters. Conducts maritime law enforcement boarding, counter-narcotics operations, migrant interdiction, and fisheries enforcement. Trains boarding teams and provides tactical law enforcement expertise.",
+        "eligibility": "High school diploma or equivalent; U.S. citizenship; qualifying ASVAB scores; pass physical fitness test; ability to obtain security clearance; swimming qualifications; normal color vision",
+        "skills_required": [
+            "Maritime law enforcement procedures",
+            "Tactical boarding operations",
+            "Use of force and defensive tactics",
+            "Small boat operations",
+            "Evidence collection and handling",
+            "Arrest procedures and detainee handling",
+            "Federal law and regulations knowledge",
+            "Firearms proficiency"
+        ],
+        "education_path": [
+            "High school diploma or equivalent",
+            "Coast Guard Basic Training (8 weeks)",
+            "Maritime Enforcement Specialist 'A' School (12 weeks)",
+            "On-the-job training at operational units",
+            "Advanced Maritime Law Enforcement training",
+            "Specialized training (counter-terrorism, drug interdiction)"
+        ],
+        "related_exams": [
+            "Armed Services Vocational Aptitude Battery (ASVAB)",
+            "Coast Guard Physical Fitness Test",
+            "Maritime Law Enforcement qualification exams",
+            "Boarding officer/boarding team member certification",
+            "Firearms qualification",
+            "Security clearance investigation"
+        ],
+        "career_growth": [
+            "Boarding Team Member",
+            "Boarding Officer",
+            "Tactical Law Enforcement Team Member",
+            "Maritime Enforcement Specialist Supervisor",
+            "Training Instructor",
+            "Command Chief",
+            "Warrant Officer or Commission possible"
+        ],
+        "companies_hiring": [
+            "U.S. Coast Guard Active Duty",
+            "Coast Guard Reserve",
+            "Federal law enforcement agencies (CBP, ICE)",
+            "State and local marine police agencies (post-service)",
+            "Port security organizations (post-service)",
+            "Maritime security companies (post-service)",
+            "Cruise line security (post-service)"
+        ],
+        "salary_range": "$25,000 - $85,000+ annually depending on rank, years of service, and additional allowances"
+    }
+]

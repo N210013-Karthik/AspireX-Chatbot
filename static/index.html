@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Guidance Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            padding: 20px;
+        }
+        .chat-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .chat-container h1 {
+            text-align: center;
+        }
+        .chat-box {
+            background-color: #f1f1f1;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .chat-box input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+        }
+        .response {
+            background-color: #e0f7fa;
+            padding: 10px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        .response, .user-query {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="chat-container">
+    <h1>Career Guidance Chatbot</h1>
+    <div class="chat-box">
+        <form action="/ask" method="post">
+            <label for="question">Ask me about your career options:</label>
+            <input type="text" id="question" name="question" placeholder="Enter your question here..." value="{{ question }}">
+            <button type="submit">Ask</button>
+        </form>
+
+        {% if response %}
+            <div class="response">
+                <strong>Response:</strong>
+                <pre>{{ response }}</pre>
+            </div>
+        {% endif %}
+    </div>
+</div>
+
+</body>
+</html>

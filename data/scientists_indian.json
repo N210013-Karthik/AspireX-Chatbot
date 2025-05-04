@@ -1,0 +1,156 @@
+[
+  {
+    "job_name": "DRDO – Defence Research and Development Organisation",
+    "category": "Scientists",
+    "field": "Defense and Aerospace Research",
+    "research_fields": ["Defense Technology", "Aerospace", "Weapon Systems", "Artificial Intelligence"],
+    "eligibility": "Bachelor's or Master's in Engineering, Science, or relevant technical fields",
+    "skills_required": ["Research and development", "Systems engineering", "Simulation tools", "Technical writing"],
+    "recruitment_process": "Through GATE, CEPTAM, or direct interviews for specific roles",
+    "career_growth": ["Scientist B", "Scientist C", "Scientist D", "Scientist E", "Scientist F"],
+    "salary_range": "₹56,100 – ₹2,18,200 per month (approx.)"
+  },
+  {
+    "job_name": "ISRO – Indian Space Research Organisation",
+    "category": "Scientists",
+    "field": "Space Research and Satellite Technology",
+    "research_fields": ["Satellite Development", "Rocket Propulsion", "Remote Sensing", "Astrophysics"],
+    "eligibility": "B.E./B.Tech or M.E./M.Tech in Engineering disciplines; PhD for research roles",
+    "skills_required": ["Orbital mechanics", "Embedded systems", "Control systems", "Team collaboration"],
+    "recruitment_process": "ISRO Centralised Recruitment (ICRB), interviews, GATE-based selections",
+    "career_growth": ["Scientist/Engineer SC", "Scientist SD", "Scientist SE", "Scientist SF"],
+    "salary_range": "₹56,100 – ₹2,08,700 per month"
+  },
+  {
+    "job_name": "CSIR – Council of Scientific and Industrial Research",
+    "category": "Scientists",
+    "field": "Multidisciplinary Scientific Research",
+    "research_fields": ["Chemical Sciences", "Biotechnology", "Environment", "Physics", "Engineering"],
+    "eligibility": "Master’s or PhD in Science/Engineering; NET or GATE for junior fellowships",
+    "skills_required": ["Lab research", "Analytical techniques", "Scientific writing", "Collaboration"],
+    "recruitment_process": "Direct recruitment through interviews, NET-JRF/LS, GATE",
+    "career_growth": ["Junior Scientist", "Senior Scientist", "Principal Scientist", "Chief Scientist"],
+    "salary_range": "₹56,000 – ₹2,00,000 per month"
+  },
+  {
+    "job_name": "ICMR – Indian Council of Medical Research",
+    "category": "Scientists",
+    "field": "Medical and Health Research",
+    "research_fields": ["Public Health", "Epidemiology", "Virology", "Genetics", "Biomedical Sciences"],
+    "eligibility": "M.Sc./PhD in Life Sciences or MBBS/MD/MS for clinical research roles",
+    "skills_required": ["Clinical research", "Data analysis", "Bioinformatics", "Health statistics"],
+    "recruitment_process": "ICMR JRF/RA entrance exams, direct recruitment for projects",
+    "career_growth": ["Scientist B", "Scientist C", "Scientist D", "Scientist E"],
+    "salary_range": "₹56,000 – ₹2,20,000 per month"
+  },
+  {
+    "job_name": "ICAR – Indian Council of Agricultural Research",
+    "category": "Scientists",
+    "field": "Agricultural and Farming Innovation",
+    "research_fields": ["Agronomy", "Soil Science", "Plant Genetics", "Agro-Tech"],
+    "eligibility": "B.Sc./M.Sc. in Agriculture or related disciplines; PhD preferred for research posts",
+    "skills_required": ["Field trials", "Crop management", "Research analysis", "Sustainable farming"],
+    "recruitment_process": "ICAR NET, ARS Exam, direct walk-ins for research projects",
+    "career_growth": ["Scientist", "Senior Scientist", "Principal Scientist", "Project Coordinator"],
+    "salary_range": "₹57,000 – ₹1,75,000 per month"
+  },
+  {
+    "job_name": "BARC – Bhabha Atomic Research Centre",
+    "category": "Scientists",
+    "field": "Nuclear Science and Atomic Energy",
+    "research_fields": ["Nuclear Physics", "Radiation Technology", "Atomic Energy", "Reactor Design"],
+    "eligibility": "B.Tech/M.Tech in Engineering; MSc in Physics/Chemistry; BARC OCES program",
+    "skills_required": ["Nuclear safety", "Radiation monitoring", "Reactor operations", "Lab research"],
+    "recruitment_process": "BARC Online Exam (OCES/DGFS), GATE score, interview",
+    "career_growth": ["Scientific Officer", "Senior Scientist", "Reactor Engineer", "Group Leader"],
+    "salary_range": "₹56,100 – ₹2,00,000 per month"
+  },
+  {
+    "job_name": "IISc – Indian Institute of Science",
+    "category": "Scientists",
+    "field": "Scientific Research and Higher Education",
+    "research_fields": ["Physics", "Mathematics", "Biology", "Engineering", "Data Science"],
+    "eligibility": "Bachelor’s or Master’s degree for research positions or PhD admissions",
+    "skills_required": ["Research methodology", "Coding", "Theoretical analysis", "Paper writing"],
+    "recruitment_process": "GATE/JEST/CSIR-NET + interview for research and academic posts",
+    "career_growth": ["Project Assistant", "Research Associate", "Assistant Professor", "Scientist"],
+    "salary_range": "₹30,000 – ₹2,00,000 per month"
+  },
+  {
+    "job_name": "IICT – Indian Institute of Chemical Technology",
+    "category": "Scientists",
+    "field": "Chemical Sciences and Industrial Chemistry",
+    "research_fields": ["Organic Chemistry", "Drug Development", "Petrochemicals", "Catalysis"],
+    "eligibility": "M.Sc. or PhD in Chemistry/Chemical Engineering",
+    "skills_required": ["Chemical synthesis", "Lab instrumentation", "Patent writing", "Safety protocols"],
+    "recruitment_process": "Through CSIR, project-based hiring, NET/GATE",
+    "career_growth": ["Junior Research Fellow", "Scientist", "Senior Scientist", "Project Leader"],
+    "salary_range": "₹56,000 – ₹1,80,000 per month"
+  },
+  {
+    "job_name": "NIO – National Institute of Oceanography",
+    "category": "Scientists",
+    "field": "Marine and Ocean Sciences",
+    "research_fields": ["Marine Biology", "Ocean Currents", "Climate Change", "Deep-sea Research"],
+    "eligibility": "Master’s or PhD in Marine Sciences, Oceanography, or Earth Sciences",
+    "skills_required": ["Field sampling", "Remote sensing", "Underwater robotics", "Ocean modeling"],
+    "recruitment_process": "CSIR recruitment, project-based hiring, interviews",
+    "career_growth": ["Research Assistant", "Scientist", "Chief Scientist", "Marine Director"],
+    "salary_range": "₹45,000 – ₹1,75,000 per month"
+  },
+  {
+    "job_name": "INCOIS – Indian National Centre for Ocean Information Services",
+    "category": "Scientists",
+    "field": "Ocean Data and Forecasting",
+    "research_fields": ["Marine Forecasting", "Disaster Management", "Climate Modeling", "Oceanography"],
+    "eligibility": "M.Sc./M.Tech/PhD in Earth Sciences, Oceanography, Meteorology",
+    "skills_required": ["Numerical modeling", "GIS", "Remote sensing", "Data analytics"],
+    "recruitment_process": "Project recruitment, direct scientist posts via interviews",
+    "career_growth": ["Scientist B", "Scientist C", "Scientist D", "Scientist E"],
+    "salary_range": "₹60,000 – ₹2,00,000 per month"
+  },
+  {
+    "job_name": "NPL – National Physical Laboratory",
+    "category": "Scientists",
+    "field": "Metrology and Measurement Science",
+    "research_fields": ["Precision Measurement", "Time Standards", "Quantum Devices", "Thermometry"],
+    "eligibility": "M.Sc./PhD in Physics, Instrumentation, Electronics",
+    "skills_required": ["Calibration", "Nanotechnology", "Lab techniques", "High-precision analysis"],
+    "recruitment_process": "Through CSIR-NPL notifications, interviews, research fellowships",
+    "career_growth": ["Junior Research Fellow", "Scientist", "Senior Scientist", "Department Head"],
+    "salary_range": "₹50,000 – ₹1,80,000 per month"
+  },
+  {
+    "job_name": "NCL – National Chemical Laboratory",
+    "category": "Scientists",
+    "field": "Chemical Research and Innovation",
+    "research_fields": ["Catalysis", "Polymer Science", "Chemical Engineering", "Material Science"],
+    "eligibility": "PhD in Chemistry/Chemical Engineering or related fields",
+    "skills_required": ["Lab-scale experimentation", "Analytical tools", "Patent writing", "Chemical safety"],
+    "recruitment_process": "CSIR-NCL recruitment, NET/GATE, direct interview",
+    "career_growth": ["Research Fellow", "Scientist", "Principal Scientist", "Lab Director"],
+    "salary_range": "₹56,000 – ₹2,00,000 per month"
+  },
+  {
+    "job_name": "TIFR – Tata Institute of Fundamental Research",
+    "category": "Scientists",
+    "field": "Advanced Scientific Research",
+    "research_fields": ["Physics", "Mathematics", "Biology", "Computer Science", "Astronomy"],
+    "eligibility": "Master’s or PhD in core science fields; via TIFR Graduate School Admission Test",
+    "skills_required": ["Theoretical modeling", "Experimentation", "Data interpretation", "Academic writing"],
+    "recruitment_process": "Written exam + Interview (TIFR GS), direct hiring for faculty/researchers",
+    "career_growth": ["Research Scholar", "Postdoc", "Faculty", "Department Head"],
+    "salary_range": "₹50,000 – ₹2,20,000 per month"
+  },
+  {
+    "job_name": "IITs and NITs – Indian Institutes of Technology / National Institutes of Technology",
+    "category": "Scientists",
+    "field": "Higher Education and Research",
+    "research_fields": ["Engineering", "Science", "AI/ML", "Material Science", "Quantum Computing"],
+    "eligibility": "M.Tech/PhD for research and academic positions",
+    "skills_required": ["Research analysis", "Teaching", "Programming", "Project management"],
+    "recruitment_process": "GATE/NET, faculty interviews, PhD admission process",
+    "career_growth": ["JRF/SRF", "Postdoctoral Fellow", "Assistant Professor", "Professor"],
+    "salary_range": "₹40,000 – ₹2,50,000 per month"
+  }
+]
