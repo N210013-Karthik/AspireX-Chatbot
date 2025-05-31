@@ -1,80 +1,65 @@
-from fastapi import FastAPI, Request, Form
+# app.py
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from fastapi.responses import JSONResponse, HTMLResponse
-from fastapi.templating import Jinja2Templates
-from sklearn.metrics.pairwise import cosine_similarity
-from chatbot import load_data, train_model, filter_jobs_by_qualification, extract_relevant_info
+from chatbot import Chatbot  # Your existing chatbot class
+from langchain_groq import ChatGroq
+from langchain.schema import HumanMessage, SystemMessage
+from fastapi.responses import JSONResponse
+import uvicorn
 
-# FastAPI setup
+# ----------- FastAPI Setup -----------
 app = FastAPI()
 
+# Enable CORS (adjust for production)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Change to specific domains in production
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-templates = Jinja2Templates(directory="static")
-
-# Load and train the model
-data_folder = "./data"
-questions, answers = load_data(data_folder)
-vectorizer, question_vectors = train_model(questions)
-
-class Query(BaseModel):
+# ----------- Request Models -----------
+class QueryRequest(BaseModel):
     question: str
 
-@app.get("/", response_class=HTMLResponse)
-async def home(request: Request):
-    # Return an HTML page for the website (can be a homepage)
-    return templates.TemplateResponse("index.html", {"request": request})
+class CareerRequest(BaseModel):
+    message: dict
 
-@app.post("/ask", response_class=HTMLResponse)
-async def ask_bot_website(request: Request, question: str = Form(...)):
-    # Check for jobs available based on graduation
-    filtered_jobs = filter_jobs_by_qualification(question, answers)
-    
-    if filtered_jobs:
-        jobs = [f"• {j['job_name']} — {j['eligibility']}" for j in filtered_jobs[:5]]
-        response = "Jobs available for you based on your graduation:\n" + "\n".join(jobs)
-        return templates.TemplateResponse("index.html", {"request": request, "response": response, "question": question})
+# ----------- Local JSON Chatbot Setup -----------
+chatbot = Chatbot(json_path="data/jobs_data.json")
 
-    # Fallback to semantic similarity if no qualification-based jobs found
-    user_vector = vectorizer.transform([question])
-    similarities = cosine_similarity(user_vector, question_vectors)
-    best_match_idx = similarities.argmax()
+@app.post("/ask")
+async def ask_question(query: QueryRequest):
+    answer = chatbot.generate_answer(query.question)
+    return {"answer": answer}
 
-    if similarities[0, best_match_idx] > 0.1:
-        matched_answer = answers[best_match_idx]
-        relevant_info = extract_relevant_info(question, matched_answer)
-        return templates.TemplateResponse("index.html", {"request": request, "response": relevant_info, "question": question})
-    else:
-        response = "Sorry, I couldn’t find relevant information."
-        return templates.TemplateResponse("index.html", {"request": request, "response": response, "question": question})
+# ----------- Langchain Career Chat Setup -----------
+groq_api = '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'  # Replace with your actual key
+chat = ChatGroq(model='Gemma2-9b-It', groq_api_key=groq_api)
 
-@app.post("/ask/api", response_class=JSONResponse)
-async def ask_bot_api(request: Request, question: str = Form(...)):
-    # Check for jobs available based on graduation
-    filtered_jobs = filter_jobs_by_qualification(question, answers)
-    
-    if filtered_jobs:
-        jobs = [f"• {j['job_name']} — {j['eligibility']}" for j in filtered_jobs[:5]]
-        response = {"response": "Jobs available for you based on your graduation:\n" + "\n".join(jobs)}
-        return JSONResponse(content=response)
+system_prompt = SystemMessage(content="""
+You are a professional tech career guidance expert. Your task is to analyze a person's interests and relevant personal information (such as hobbies, personality traits, academic strengths, and goals) and recommend at least 5 career paths that align well with their profile. For each career path, provide a brief explanation of why it suits the individual, including how their interests and traits align with the demands and opportunities in that field. Be clear, practical, and insightful in your recommendations.
+""")
 
-    # Fallback to semantic similarity if no qualification-based jobs found
-    user_vector = vectorizer.transform([question])
-    similarities = cosine_similarity(user_vector, question_vectors)
-    best_match_idx = similarities.argmax()
+@app.post("/chat")
+async def chat_with_model(request: CareerRequest):
+    try:
+        userinfo_str = "\n".join(f"{k}: {v}" for k, v in request.message.items())
+        user_prompt = f"{userinfo_str}\nSuggest careers with some details like experience, salary, category."
 
-    if similarities[0, best_match_idx] > 0.1:
-        matched_answer = answers[best_match_idx]
-        relevant_info = extract_relevant_info(question, matched_answer)
-        response = {"response": relevant_info}
-        return JSONResponse(content=response)
-    else:
-        response = {"response": "Sorry, I couldn’t find relevant information."}
-        return JSONResponse(content=response)
+        messages = [
+            system_prompt,
+            HumanMessage(content=user_prompt)
+        ]
+
+        response = chat(messages)
+        return JSONResponse(content={"response": response.content})
+
+    except Exception as e:
+        return JSONResponse(content={"error": str(e)}, status_code=500)
+
+# Optional: Run via `python app.py`
+if __name__ == "__main__":
+    uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
