@@ -4,3 +4,6 @@ scikit-learn
 jinja2
 python-multipart
 sentence_transformers
+langchain_groq
+langchain
+sklearn
